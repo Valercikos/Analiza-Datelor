@@ -11,8 +11,6 @@ data/2023_September_data.xlsx: Setul de date folosit în analiză.
 Prezentarea generala, ploturi si articol stiitific.
 README.md: Acest fișier, oferind o prezentare generală a repository-ului.
 
-git clone https://github.com/[username]/[nume-repo.git]
-cd [nume-repo]
 Deschide Analiza_Tendinte_Preferinte_Cumparatori.Rmd în RStudio:
 
 Asigură-te că ai instalate toate bibliotecile necesare specificate în fișier.
